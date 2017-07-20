@@ -1,0 +1,49 @@
+
+.different {
+  font-size: 20px;
+}
+h1 {
+  text-align: left;
+  font-size: 20px;
+}
+a:hover {
+  background-color: F4141B;
+}
+p{
+  font-size: 20px;
+  font-style: normal;
+}
+body{
+  background-color:#C65757;
+}
+h3{
+  font-size: 20px
+}
+.left{
+  float:left;
+  width: 50%;
+}
+.right{
+  float:right;
+  width: 40%;
+}
+.change{
+border-style: solid;
+margin-top: 20px;
+}
+.border{
+  border-style: solid;
+}
+.row{
+  width: 100%;
+  clear: both;
+}
+.footer{
+  clear: both;
+  border-top: 2px solid black;
+  margin-bottom: : 20px
+}
+.whyi {
+  padding-top: 20px;
+  padding-right: 30px;
+}
